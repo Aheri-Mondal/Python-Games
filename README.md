@@ -7,4 +7,4 @@
  ![Game screen](https://github.com/Aheri-Mondal/Python-Games/blob/master/Game_pictures/snake_game_img1.png)
  
  Game over screen:
- ![Game over screen](https://github.com/Aheri-Mondal/Python-Games/blob/master/snake_game_img2.png) 
+ ![Game over screen](https://github.com/Aheri-Mondal/Python-Games/blob/master/Game_pictures/snake_game_img2.png) 
