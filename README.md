@@ -9,6 +9,8 @@
  Game over screen:
  ![Game over screen](https://github.com/Aheri-Mondal/Python-Games/blob/master/Game_pictures/snake_game_img2.png) 
  
+
+
  Game-2: 
  Hangman - The player has to guess a word by guessing the missing letters.
  
@@ -23,3 +25,16 @@
  Losing Screen:
  
  ![Game screen](https://github.com/Aheri-Mondal/Python-Games/blob/master/Game_pictures/Hangman_pic3.PNG)
+ 
+ 
+ 
+ Game-3: Pong Game - The player has to control a sliding bar and hit a bouncing ball to prevent it from dropping.
+ 
+ Game screen:
+ 
+ ![Game screen](https://github.com/Aheri-Mondal/Python-Games/blob/master/Game_pictures/pong_game_1.PNG)
+ 
+ 
+ Game over screen:
+ 
+ ![Game over screen](https://github.com/Aheri-Mondal/Python-Games/blob/master/Game_pictures/pong_game_2.PNG) 
